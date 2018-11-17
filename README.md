@@ -9,9 +9,9 @@ A web application that allows employees to order lunch from predefined menu
 #    2.	I chose Flask as a framework/API to meet the requirements, (the other option was to use Django Framework, which requires a lot of time setting configuration). 
 #    3.	 To get more security features I added Flask-Security (micro framework) to quickly add common security mechanisms. 
 #    4.	I added Flas#  k-RESTful (en expansion for Flask) to support requests: 
-#      a.	different data format types, 
-#      b.	application security-RESTful API can be parametrized/configured securely.
-#      c.	Flask-RESTful for support ORM for deferent Data bases
-  #  d.	ORM can all so helps to distinguish data from code, application security for Injections (SQL, OS and etc).
+#       a.	different data format types, 
+#       b.	application security-RESTful API can be parametrized/configured securely.
+#       c.	Flask-RESTful for support ORM for deferent Data bases
+#       d.	ORM can all so helps to distinguish data from code, application security for Injections (SQL, OS and etc).
 #    5.	Runn the Application Over HTTPS – to get encryption login sessions (PKI) with user.
 

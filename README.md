@@ -1,6 +1,6 @@
 # My_Meal-
 A web application that allows employees to order lunch from predefined menu
-Assumptions:
+     Assumptions:
 1.	It will have to communicate with the restaurants ordering web app/system, to deliver food requests and get responds back, so we need to support diverse data format types.
 2.	will need security layers, application security, encryption, authentication to secure from web threats/cyber Attacks.
 3.	The deadline for project delivery is short, so I need a fast programming language and framework (less code and configuration) that can give me response for requests.
